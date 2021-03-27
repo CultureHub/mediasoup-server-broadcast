@@ -1,0 +1,8 @@
+#certs
+certs/localhost/localhost-key.pem
+certs/localhost/localhost.pem
+certs/web-server/fullchain.pem
+certs/web-server/privkey.pem
+
+#node_modules
+node_modules
